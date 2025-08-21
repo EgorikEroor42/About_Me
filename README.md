@@ -4,4 +4,4 @@
 
 2.Reads books:"Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People" (In process).
 
-3.Work with:Python,Asyncio,Redis,PosterSQL,Sqlalchemy,Aiogram.
+3.Work with:[Python,Asyncio,Redis,PosterSQL,Sqlalchemy,Aiogram.](https://github.com/EgorikEroor42/1.TelegramBotForBuyingNewNftGifts)
