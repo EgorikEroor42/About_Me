@@ -29,3 +29,7 @@ Pydantic - [TelegramBot_NftGift_Buyer](https://github.com/EgorikEroor42/Telegram
 Redis - [TelegramBot_NftGift_Buyer](https://github.com/EgorikEroor42/TelegramBot_NftGift_Buyer)
 
 Sqlalchemy - [TelegramBot_NftGift_Buyer](https://github.com/EgorikEroor42/TelegramBot_NftGift_Buyer)
+
+Tools:
+
+Git - [Check_number_scammers](https://github.com/EgorikEroor42/Check_number_scammers)
